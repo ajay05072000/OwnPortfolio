@@ -1,0 +1,44 @@
+.nav-item {
+  margin: 15px;
+  cursor: pointer;
+}
+
+.navbar-brand {
+  color: rgb(168, 168, 231) !important;
+}
+
+#react {
+  color: rgb(81, 81, 243);
+}
+
+#heading {
+  color: rgb(107, 105, 228);
+}
+
+i {
+  color: rgb(81, 81, 243);
+}
+
+#intro {
+  color: rgba(215, 101, 230, 0.877);
+}
+
+.textAbout {
+  color: rgb(226, 226, 226);
+}
+
+.skill_section {
+  background-color: rgb(206, 216, 236);
+}
+
+#footer {
+  font-family: "Corinthia", cursive;
+}
+
+i {
+  cursor: pointer;
+}
+
+.project {
+  background-color: #bcbce6;
+}
