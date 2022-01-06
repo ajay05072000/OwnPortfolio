@@ -65,7 +65,7 @@ function Project() {
               Technologies Used: HTML , CSS , Bootstrap
             </p>
             <a
-              href="https://jhaajay749.github.io/BootstrapProject/"
+              href="https://ajay05072000.github.io/Bootstrap_Project/"
               className="btn btn-outline-primary me-5"
             >
               Web
