@@ -27,7 +27,7 @@ function About() {
             <br />I am very passionate about learning new technologies.
           </p>
           <div className="text-center mb-4">
-            <a href="https://drive.google.com/file/d/1MbK0LZXCSqtpc8LyaXqTd2z6t39nJ2T3/view">
+            <a href="https://drive.google.com/file/d/1MbK0LZXCSqtpc8LyaXqTd2z6t39nJ2T3/view" target="_blank">
               <button type="button" className="btn btn-outline-primary">
                 View Resume
               </button>
