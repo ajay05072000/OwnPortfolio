@@ -12,14 +12,14 @@ function Contact() {
       </h1>
 
       <h1 className=" text-center display-2 mb-5">
-        <a href="https://www.linkedin.com/in/ajay-kumar-jha-1a8979181/">
+        <a href="https://www.linkedin.com/in/ajaykumarjha06/">
           <i class="fab fa-linkedin"></i>
           <h2>Linkedin</h2>
         </a>
       </h1>
 
       <h1 className="text-center display-2 mb-5">
-        <a href="https://github.com/ajay05072000">
+        <a href="https://github.com/ajayjhadev">
           <i class="fab fa-github"></i>
           <h2>github</h2>
         </a>
