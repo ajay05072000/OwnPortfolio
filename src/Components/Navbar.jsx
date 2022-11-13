@@ -1,12 +1,27 @@
 import React from "react";
 import { Link } from "react-scroll";
+import logo from "../assets/ajayjhaDev.jpeg";
+
+let imgStyle = {
+  borderRadius: "50%",
+
+  height: "80px",
+  width: "80x",
+};
 
 function Navbar() {
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-3">
         <div className="container">
-          <h1 className="navbar-brand">Ajay_Web</h1>
+          <h1 className="navbar-brand">
+            <img
+              src={logo}
+              alt={"logo"}
+              style={imgStyle}
+              className={"img-fluid"}
+            />
+          </h1>
           <button
             className="navbar-toggler"
             type="button"
@@ -38,7 +53,7 @@ function Navbar() {
                   aria-current="page"
                   to="skill"
                 >
-                  Skill
+                  Skills
                 </Link>
               </li>
               <li className="nav-item">
@@ -47,7 +62,7 @@ function Navbar() {
                   aria-current="page"
                   to="project"
                 >
-                  Project
+                  Projects
                 </Link>
               </li>
               <li className="nav-item">

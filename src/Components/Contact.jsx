@@ -12,15 +12,23 @@ function Contact() {
       </h1>
 
       <h1 className=" text-center display-2 mb-5">
-        <a href="https://www.linkedin.com/in/ajaykumarjha06/" target="_blank" rel="noopener noreferrer">
-          <i class="fab fa-linkedin"></i>
+        <a
+          href="https://www.linkedin.com/in/ajaykumarjha06/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-linkedin"></i>
           <h2>Linkedin</h2>
         </a>
       </h1>
 
       <h1 className="text-center display-2 mb-5">
-        <a href="https://github.com/ajayjhadev" target="_blank" rel="noopener noreferrer">
-          <i class="fab fa-github"></i>
+        <a
+          href="https://github.com/ajayjhadev"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-github"></i>
           <h2>github</h2>
         </a>
       </h1>
