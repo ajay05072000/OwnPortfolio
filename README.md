@@ -1,3 +1,3 @@
 # OwnPortfolio
 
-https://ajayportfolioweb.netlify.app/
+https://ajayjhadev.netlify.app/
