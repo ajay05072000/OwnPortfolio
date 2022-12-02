@@ -46,3 +46,7 @@ i {
 .project {
   background-color: #bcbce6;
 }
+
+a {
+  text-decoration: none;
+}
