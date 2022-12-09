@@ -1,5 +1,9 @@
 import React from "react";
-import reactWeb from "../images/reactWeb.jpg";
+
+import ecomm from "../assets/ecomm.png";
+import blog from "../assets/blog.png";
+import md from "../assets/md.png";
+import coavin from "../assets/coavin.png";
 
 function Project() {
   return (
@@ -8,24 +12,31 @@ function Project() {
 
       <section className="col-10 col-md-3 mx-auto">
         <div className="card">
-          <img src={reactWeb} className="card-img-top" alt="reactWeb" />
+          <img src={ecomm} className="card-img-top" alt="reactWeb" />
           <div className="card-body">
-            <h5 className="card-title">reactWebProject</h5>
+            <h5 className="card-title">
+              <strong>Ecommerce Website</strong>
+            </h5>
             <p className="card-text">
-              Technologies Used: React , React-router , Bootstrap
+              Technologies Used: - React - Redux Toolkit - React-Hook Form -
+              react-router-dom - Bootstrap - react-bootstrap
             </p>
             <a
-              href="https://reactwebproject.netlify.app/"
+              href="https://ecommsite.netlify.app/"
               className="btn btn-outline-primary me-5"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              Web
+              Live
             </a>
 
             <a
-              href="https://github.com/ajay05072000/reactWebProject"
-              className="btn btn-outline-primary"
+              href="https://github.com/ajayjhaDev/Ecommerce"
+              className="btn btn-outline-primary mt-4"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              github
+              github repo
             </a>
           </div>
         </div>
@@ -33,24 +44,31 @@ function Project() {
 
       <section className="col-10 col-md-3 mx-auto">
         <div className="card">
-          <img src={reactWeb} className="card-img-top" alt="reactWeb" />
+          <img src={md} className="card-img-top" alt="reactWeb" />
           <div className="card-body">
-            <h5 className="card-title">reactSmoothScroll</h5>
+            <h5 className="card-title">
+              <strong>Management or Tangent Dashboard</strong>
+            </h5>
             <p className="card-text">
-              Technologies Used: React , react-scroll , Bootstrap
+              Management or Tangent Dashboard built in React, Redux Toolkit,
+              React-Router-Dom
             </p>
             <a
-              href="https://react-smoothscroll.netlify.app/"
+              href="https://tangentdashboard.netlify.app/"
               className="btn btn-outline-primary me-5"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              Web
+              Live
             </a>
 
             <a
-              href="https://github.com/ajay05072000/react-smoothScroll"
-              className="btn btn-outline-primary"
+              href="https://github.com/ajayjhaDev/TangentDashboard"
+              className="btn btn-outline-primary mt-4"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              github
+              github repo
             </a>
           </div>
         </div>
@@ -58,24 +76,63 @@ function Project() {
 
       <section className="col-10 col-md-3 mx-auto">
         <div className="card">
-          <img src={reactWeb} className="card-img-top" alt="reactWeb" />
+          <img src={blog} className="card-img-top" alt="reactWeb" />
           <div className="card-body">
-            <h5 className="card-title">Bootstrap_Project</h5>
+            <h5 className="card-title">
+              <strong>BloggingSite</strong>
+            </h5>
             <p className="card-text">
-              Technologies Used: HTML , CSS , Bootstrap
+              BloggingSite with CRUD and authentication functionality
+              Technologies Used - React - Redux Toolkit - React-Router-Dom -
+              React-Hook Form - Ant Design - react-bootstrap
             </p>
             <a
-              href="https://ajay05072000.github.io/Bootstrap_Project/"
+              href="https://bloggingsite.netlify.app/"
               className="btn btn-outline-primary me-5"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              Web
+              Live
             </a>
 
             <a
-              href="https://github.com/ajay05072000/Bootstrap_Project"
-              className="btn btn-outline-primary"
+              href="https://github.com/ajayjhaDev/BloggingSite"
+              className="btn btn-outline-primary mt-4"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              github
+              github repo
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section className="col-10 col-md-3 mx-auto">
+        <div className="card">
+          <img src={coavin} className="card-img-top" alt="reactWeb" />
+          <div className="card-body">
+            <h5 className="card-title">
+              <strong>Coavin Tech</strong>
+            </h5>
+            <p className="card-text">
+              A fully responsiveness business Company Website built in React
+            </p>
+            <a
+              href="https://coavintech.netlify.app/"
+              className="btn btn-outline-primary me-5"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Live
+            </a>
+
+            <a
+              href="https://github.com/ajayjhaDev/coavinTech"
+              className="btn btn-outline-primary mt-4"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              github repo
             </a>
           </div>
         </div>

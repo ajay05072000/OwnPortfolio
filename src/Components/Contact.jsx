@@ -34,7 +34,7 @@ function Contact() {
       </h1>
 
       <p className="d-flex p-2 text-light justify-content-center">
-        <a href="mailto:ajaykumarjha05072000@gmail.com">
+        <a href="mailto:ajaykumarjha05072000@gmail.com" className="text-light">
           Email: ajaykumarjha05072000@gmail.com
         </a>
       </p>

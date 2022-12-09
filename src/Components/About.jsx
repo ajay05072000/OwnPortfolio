@@ -13,23 +13,23 @@ function About() {
             <h1 id="intro">Hey ! , I'm Ajay</h1>
 
             <h1 id="heading">
-              <span id="react">ReactJs/NextJs</span> Frontend developer
+              <span id="react">ReactJs</span> Frontend developer
             </h1>
           </div>
           <p className="textAbout">
             This is Ajay Kumar Jha , Computer Science undergrad
             <br />
             I’m interested in React | Frontend Development I've good
-            understanding in ReactJS / NextJS Frontend development , I've been
-            learning tools and technologies of Frontend development and
-            developing projects in ReactJS and their Ecosystem Frontend
-            development since my 1st year of college and really enjoying it....
+            understanding in ReactJS Frontend development , I've been learning
+            tools and technologies of Frontend development and developing
+            projects in ReactJS and their Ecosystem Frontend development since
+            my 1st year of college and really enjoying it....
             <br />I am very passionate about learning new technologies and serve
             in Industry.
           </p>
           <div className="text-center mb-4">
             <a
-              href="https://drive.google.com/file/d/1pD4BwbuF9VeLQeUjUADLCP0AoxfGmSRK/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1E6Tt9uTTr40N506miNFpbbdks4fgBsXO/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
             >
